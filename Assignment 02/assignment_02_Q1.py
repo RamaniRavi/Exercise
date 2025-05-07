@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plot Document Frequencies (15 points)
 # Write a Python script to plot the document frequencies (the number of documents containing a particular term) of terms in a corpus. Use as an example of documents the following:
 
@@ -5,6 +6,8 @@
 # documents = ["data mining data analysis", "machine learning data mining", "deep learning deep thought"]
 # -------------------------------------------------------------------------------------------------
 
+=======
+>>>>>>> 8286aea4bfe3c10b22a7143bfc9b4b422c72c948
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
